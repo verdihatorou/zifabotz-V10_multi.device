@@ -4,7 +4,7 @@
 // Zifabotz
 
 let fs = require('fs')
-global.owner = ['6285828764046', '6285828764046','6285828764046', '6285828764046', '6285828764046'] // Letakan nomor kamu disini
+global.owner = ['6285706735450', '6285706735450','6283869803330', '6283869803330', '6283869803330'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -41,13 +41,13 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'rozi'
-global.author = 'zifa'
+global.packname = 'koe'
+global.author = 'Dasu'
 
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
-global.eror = '「❗」Server LAGI ERROR COK!'
+global.eror = '「❗」Server LAGI ERROR gblk!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© zifabotz' //change the watermark 
+global.watermark = '© KOE PRINDAPAN' //change the watermark 
 global.image = 'https://telegra.ph/file/052ca138a613c8859756f.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/c3bcc6f8e8574d1c5274f.jpg'
 
